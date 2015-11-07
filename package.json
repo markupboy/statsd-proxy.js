@@ -1,0 +1,22 @@
+{
+  "name": "statsd-proxy.js",
+  "version": "1.0.0",
+  "description": "A simple http to statsd proxy",
+  "main": "statsd-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markupboy/statsd-proxy.js.git"
+  },
+  "author": "Blake Walters (@markupboy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markupboy/statsd-proxy.js/issues"
+  },
+  "homepage": "https://github.com/markupboy/statsd-proxy.js",
+  "devDependencies": {
+    "statsd-client": "^0.2.1"
+  }
+}
